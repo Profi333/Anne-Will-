@@ -1,9 +1,20 @@
-id,name,sex,power,fans,type
-Adam,Adam the Man,1,5,100,0
-Eva,Eva the Woman,2,5,200,0
-Abraham,Aba the Father,1,4,50,0
-Ismael,Ismael the Man,1,3,30,0
-Isaaak,Isaak the Hunter,1,3,30,0
-Jakob,Jakob the Giver,2,3,30,0
-Sara,Sara the Wife,1,2,50,0
-Arc,The Arc ,,10,1000,1
+id,name,party,sector,country,type
+UL	Ursula von der Leyen	CDU	Politik	Deutschland	1
+LK	Lars Klingbeil	SPD	Politik	Deutschland	1
+NR	Norbert Röttgen	CDU	Politik	Deutschland	1
+SW	Sahra Wagenknecht	Die Linke	Politik	Deutschland	1
+CS	Constanze Stelzenmüller		Wissenschaft	USA	1
+CL	Christian Lindner	FDP	Politik	Deutschland	1
+KS	Karl Schlögel		Wissenschaft	Deutschland	1
+LM	Ljudmyla Melnyk		Wissenschaft	Ukraine	1
+KD	Kristina Dunz		Journalismus	Deutschland	1
+EG	Egils Levits		Politik	Lettland	1
+AL  Annalena Baerbock Die Grünen Politik Deutschland 1 
+FT	Frans Timmermans		Politik	Niederlande	1
+AM	Andrij Melnyk		Politik	Ukraine	1
+AGL	Alexander Graf Lambsdorff	FDP	Politik	Deutschland	1
+ER	Egon Ramms		Militär	Deutschland	1
+RH	Robert Habeck	Grüne	Politik	Deutschland	1
+CM	Claudia Major		Politik	Deutschland	1
+KP	Katja Petrowskaja		Journalismus	Ukraine	1
+RK	Roderich Kiesewetter	CDU	Politik	Deutschland	1
