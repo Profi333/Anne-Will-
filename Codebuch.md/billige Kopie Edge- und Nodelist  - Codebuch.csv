@@ -15,7 +15,7 @@ from = ID des Knoten Parteimitglied
 to = ID des Knoten Mitgliedschaft
 relationship: 1 = Teilnahme Talkshow 2 = Mitglied Partei
 
-Nodelist
+Node-Attribute
 
 id = Vor- und Nachname des Parteimitglieds abgekürzt; entspricht from aus der Edgelist
 name = Vor- und Nachname
@@ -23,3 +23,4 @@ party = Parteizugehörigkeit, codiert nach Parteiname also z.B. SPD, GREEN, CDU
 sector = Politik, Military, Journalismus
 country = Lebensmittelpunkt
 type = 1 als Person, 2 als Organisation
+
